@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind.csproj": {}
+    "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind\\mastermind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind.csproj": {
+    "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind\\mastermind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind.csproj",
+        "projectUniqueName": "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind\\mastermind.csproj",
         "projectName": "mastermind",
-        "projectPath": "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind.csproj",
+        "projectPath": "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind\\mastermind.csproj",
         "packagesPath": "C:\\Users\\CalvisSE1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\obj\\",
+        "outputPath": "C:\\Users\\CalvisSE1\\OneDrive - Grove City College\\Documents\\GitHub\\mastermind\\mastermind\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

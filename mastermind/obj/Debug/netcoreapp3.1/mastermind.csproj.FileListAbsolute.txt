@@ -1,0 +1,11 @@
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\bin\Debug\netcoreapp3.1\mastermind.exe
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\bin\Debug\netcoreapp3.1\mastermind.deps.json
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\bin\Debug\netcoreapp3.1\mastermind.runtimeconfig.json
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\bin\Debug\netcoreapp3.1\mastermind.runtimeconfig.dev.json
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\bin\Debug\netcoreapp3.1\mastermind.dll
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\bin\Debug\netcoreapp3.1\mastermind.pdb
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\obj\Debug\netcoreapp3.1\mastermind.csprojAssemblyReference.cache
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\obj\Debug\netcoreapp3.1\mastermind.AssemblyInfoInputs.cache
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\obj\Debug\netcoreapp3.1\mastermind.AssemblyInfo.cs
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\obj\Debug\netcoreapp3.1\mastermind.dll
+C:\Users\CalvisSE1\OneDrive - Grove City College\Documents\GitHub\mastermind\mastermind\obj\Debug\netcoreapp3.1\mastermind.pdb
